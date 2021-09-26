@@ -1,1 +1,10 @@
-# IFT
+Contact angle and surface tension are the two most widely used surface analysis
+approach for reservoir fluid characterization in petroleum industries. The pendant drop method
+has among the most widely used techniques for the estimation of surface tension. The present
+work utilizes a python based computer program to automatically determine interfacial tension
+(IFT) and contact angle from the pendant drop image acquired from a typical pendant drop
+apparatus. The proposed program uses python-based image processing libraries for the analysis
+of the pendant drop image. Also, the program is tested on images acquired from the standard
+solutions for the IFT and contact angle calculation showing promising results with approximate 
+error between 3 to 4 dyne/cm. This will essentially eliminate the usage of sophisticated
+instruments expediting the estimation of wettability and IFT determination.
