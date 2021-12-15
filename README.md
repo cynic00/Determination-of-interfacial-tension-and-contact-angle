@@ -4,5 +4,5 @@ Contact angle and surface tension are the two most widely used surface analysis 
 
 You can find complete article [here](https://doi.org/10.1007/s13202-021-01398-6)
 ### Automated determination of interfacial tension and contact angle using computer vision for oil feld applications
-Author: Ankur Gupta, Anurag Pandey, Himanshu Kesarwani, Shivanjali Sharma, Amit Saxena
+#### Author: Ankur Gupta, Anurag Pandey, Himanshu Kesarwani, Shivanjali Sharma, Amit Saxena
 DOI: https://doi.org/10.1007/s13202-021-01398-6
